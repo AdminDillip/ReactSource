@@ -8,4 +8,10 @@ Git & GitHub:
 7.to commit: git commit -m "task related message"
 8. to push the code from local server to remote server: git push
 9. to  add multiple added files to git: git add .
-10.To pull the updated code into the branch: git pull
+10.To pull the updated code into the branch: git pull 
+11. to check commit history: git log ,to abort git log: type 'q'
+12.
+13.
+14.
+15.
+16.How to create a branch:git branch branchName
