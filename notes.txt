@@ -1,0 +1,7 @@
+Git & GitHub:
+1.Install Git.
+2.create a repository in GitHub. 
+3.Clone the repository to local machine: git clone Url
+4.To check in which branch,run the command in terminal: git branch
+5.to check status:git status.
+6.
