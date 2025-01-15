@@ -3,5 +3,8 @@ Git & GitHub:
 2.create a repository in GitHub. 
 3.Clone the repository to local machine: git clone Url
 4.To check in which branch,run the command in terminal: git branch
-5.to check status:git status.
-6.
+5.to check status:git status
+6.to add the file in staging area: git add fileName
+7.to commit: git commit -m "task related message"
+8. to push the code from local server to remote server: git push
+9. to  add multiple added files to git: git add .
