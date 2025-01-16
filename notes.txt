@@ -14,4 +14,9 @@ Git & GitHub:
 13.
 14.
 15.
-16.How to create a branch:git branch branchName
+16.How to create a branch:git branch branchName.
+17.to checkout the new branch : git checkout -b NewBranchName
+18.add data then add to newbranch (add,commit,push).
+19.to merge the newbranch to main branch do a pull request in GitHub
+20.TeamLeader will merge the pull request to main after reviewing the pull request in his gitHub.
+22.then the added data will be reflected in main branch.
